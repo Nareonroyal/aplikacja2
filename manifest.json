@@ -1,0 +1,15 @@
+{
+  "name": "yObywatel 2.0",
+  "short_name": "yObywatel",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Demo aplikacji yObywatel",
+  "icons": [
+    {
+      "src": "https://www.lobierun.edu.pl/obrazy/pliki/galeria/658/s1_011.jpg",
+      "sizes": "180x180",
+      "type": "image/jpg"
+    }
+  ]
+}

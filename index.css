@@ -1,0 +1,17 @@
+.logo {
+    width: 150px;
+    display: block;
+    margin: 30px auto 10px;
+}
+.logo_text {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.warning {
+    text-align: center;
+    color: red;
+    font-family: sans-serif;
+    margin-top: 20px;
+}

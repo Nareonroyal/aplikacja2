@@ -1,0 +1,1 @@
+// Możesz dodać konfigurację manifestu jako plik JS.

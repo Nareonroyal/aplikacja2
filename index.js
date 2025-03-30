@@ -1,0 +1,1 @@
+// Możesz dodać tutaj funkcje JavaScript, np. animacje lub interakcje.
